@@ -46,16 +46,6 @@ The **Team Leader**:
 - Saves it as `.md` only after user confirmation
 
 
-> 📁 Place your screenshots inside a folder called `assets/` in your repository and rename them accordingly:
->
-> ```
-> assets/
-> ├── agentos-running.png
-> ├── config-dashboard.png
-> ├── swagger-docs.png
-> └── team-graph.png
-> ```
-
 ---
 
 ## 🧠 Tech Stack
@@ -94,7 +84,7 @@ medium-article-generator/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/medium-article-generator.git
+git clone https://github.com/Dev-debasish-09/AGNO_Medium_article_creation.git
 cd medium-article-generator
 ```
 
@@ -142,17 +132,6 @@ You will see:
 OS running on: http://localhost:7777
 ```
 
----
-
-### 🌐 Access Interfaces
-
-| Interface | URL |
-|-----------|------|
-| AgentOS UI | https://os.agno.com/ |
-| Local API | http://localhost:7777 |
-| Swagger Docs | http://localhost:7777/docs |
-
----
 
 ## ✍️ How It Works
 
@@ -226,16 +205,4 @@ medium_articles/
 
 **Debasish Pradhan**  
 AI Engineer | Multi-Agent Systems Enthusiast  
-
----
-
-## ⭐ Support
-
-If you found this project helpful:
-
-- ⭐ Star the repository
-- 🍴 Fork it
-- 🧠 Contribute improvements
-
----
 
