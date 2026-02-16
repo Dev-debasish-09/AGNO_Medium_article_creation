@@ -45,33 +45,6 @@ The **Team Leader**:
 - Writes a Medium-style article
 - Saves it as `.md` only after user confirmation
 
----
-
-## 🖥️ Screenshots
-
-### 🔹 AgentOS Running Locally
-
-![AgentOS Running](./assets/agentos-running.png)
-
----
-
-### 🔹 Agent Configuration Dashboard
-
-![Agent Configuration](./assets/config-dashboard.png)
-
----
-
-### 🔹 Swagger API Docs
-
-![Swagger Docs](./assets/swagger-docs.png)
-
----
-
-### 🔹 Team Visualization
-
-![Team Graph](./assets/team-graph.png)
-
----
 
 > 📁 Place your screenshots inside a folder called `assets/` in your repository and rename them accordingly:
 >
@@ -265,3 +238,4 @@ If you found this project helpful:
 - 🧠 Contribute improvements
 
 ---
+
